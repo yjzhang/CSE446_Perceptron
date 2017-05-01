@@ -84,6 +84,6 @@ class Perceptron(object):
 
 
 if __name__ == '__main__':
-    val_data, val_labs = data.load_data('data/validation_sub.csv')
-    test_data, test_labs = data.load_data('data/test_sub.csv')
+    val_data, val_labs = data.load_data('data/validation.csv')
+    test_data, test_labs = data.load_data('data/test.csv')
     # TODO: implement code for running the problems
