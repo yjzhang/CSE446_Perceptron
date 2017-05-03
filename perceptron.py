@@ -81,6 +81,7 @@ class Perceptron(object):
         # TODO
         return 1
 
+# Feel free to add any helper functions as needed.
 
 
 if __name__ == '__main__':
