@@ -17,7 +17,7 @@ The digit images have been taken from the Kaggle competition linked to on the pr
 The data has also undergone some preprocessing. It has been filtered to just those datapoints whose labels are 3 or 5, which have then been relabeled to 1 and -1 respectively. Then, 1000-point samples have been created, named \emph{validation.csv} and \emph{test.csv}. The first column of these files is the label of each point, followed by the grayscale value of each pixel.
 
 
-### Perceptron [30 points]
+### Perceptron [40 points]
 
 First, get the Perceptron working with the kernel $k_p^1(u,v) = u \cdot v + 1$.
 
